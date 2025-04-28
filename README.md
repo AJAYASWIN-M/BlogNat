@@ -99,14 +99,7 @@ Make sure you set your environment variables correctly:
 
 ---
 
-### 🙏 Acknowledgements
 
-- Spring Boot Documentation
-- MongoDB Documentation
-- Cloudinary API
-- React Official Docs
-
----
 
 ### 📸 Screenshots
 
