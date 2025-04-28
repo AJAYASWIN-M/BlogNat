@@ -121,8 +121,12 @@ Make sure you set your environment variables correctly:
 
 
 ### Dashboard Page:
+![image](https://github.com/user-attachments/assets/81098149-da79-461f-93eb-90be4a0dbb36)
+
 
 ### Blog Post:
+   ![image](https://github.com/user-attachments/assets/4cf56a79-4361-4135-96e3-2e51f45d469a)
+
 
 
 
